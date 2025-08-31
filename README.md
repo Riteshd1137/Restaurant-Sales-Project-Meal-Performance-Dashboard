@@ -30,3 +30,6 @@ This project analyzes restaurant sales data to provide actionable insights into 
 
 ## Outcome
 A professional, recruiter-ready Excel project showcasing advanced data analysis, visualization, and dashboarding skills.  
+
+<img width="1611" height="653" alt="Screenshot 2025-08-31 162549" src="https://github.com/user-attachments/assets/ed5df4b1-bb66-4db4-8d43-db0ca2d7e544" />
+
